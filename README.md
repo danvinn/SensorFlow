@@ -2,7 +2,7 @@ SensorFlow can **connect** with the remote devices which support **Bluetooth Low
 
 My goal was to utilize this terminal and allow **any** compatible microcontroller and sensor to comunicate and transmit data. 
 
-I have utilized Chart.js to preform real-time data representation. 
+I have utilized Chart.js, React and Electorn to help preform real-time data representation in a sophisticacted application. 
 
 This can be installed on your homescreen as an application and work offline.
 
