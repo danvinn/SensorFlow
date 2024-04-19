@@ -1,0 +1,18 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "Hello World!",
+  "main": "js/app.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jane Doe",
+  "license": "MIT",
+  "dependencies": {
+    "node": "^18.20.2"
+  },
+  "devDependencies": {
+    "electron": "^30.0.1"
+  }
+}
