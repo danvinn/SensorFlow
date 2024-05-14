@@ -1,8 +1,8 @@
 {
   "name": "my-electron-app",
   "version": "1.0.0",
-  "description": "Hello World!",
-  "main": "js/app.js",
+  "description": "Making HTTP REST API Calls - net Module in Electron ",
+  "main": "main.js",
   "scripts": {
     "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,9 +10,10 @@
   "author": "Jane Doe",
   "license": "MIT",
   "dependencies": {
+    "axios": "^1.6.8",
     "node": "^18.20.2"
   },
   "devDependencies": {
-    "electron": "^30.0.1"
+    "electron": "^30.0.4"
   }
 }
